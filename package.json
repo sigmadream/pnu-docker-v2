@@ -1,0 +1,12 @@
+{
+  "name": "pnu-docker-v2",
+  "version": "1.0.0",
+  "description": "pnu-docker-v2",
+  "main": "server.js",
+  "author": "Sangkon Han",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.17.1"
+  }
+}
